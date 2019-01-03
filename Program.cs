@@ -10,10 +10,18 @@ namespace Projekt_3_1_19
     {
         static void Main(string[] args)
         {
+            WriteHello();
+
+            Console.WriteLine("1+1="+
+                Calculator.add(1, 1)
+                );
+
+
+            Console.ReadLine();
             
         }
         
-        public void WriteHello()
+        public static void WriteHello()
         {
             Console.WriteLine("Hello world");
         }

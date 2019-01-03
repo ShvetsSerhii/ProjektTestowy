@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\bin\Debug\Projekt3.1.19.exe.config
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\bin\Debug\Projekt3.1.19.exe
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\bin\Debug\Projekt3.1.19.pdb
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\obj\Debug\Projekt_3_1_19.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\obj\Debug\Projekt3.1.19.exe
+C:\Users\DELL\Desktop\Nowy folder\Projekt3.1.19\Projekt3.1.19\obj\Debug\Projekt3.1.19.pdb
