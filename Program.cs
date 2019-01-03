@@ -10,6 +10,12 @@ namespace Projekt_3_1_19
     {
         static void Main(string[] args)
         {
+            
+        }
+        
+        public void WriteHello()
+        {
+            Console.WriteLine("Hello world");
         }
     }
 }
