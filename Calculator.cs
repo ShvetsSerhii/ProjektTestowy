@@ -14,5 +14,11 @@ namespace Projekt_3_1_19
             return a + b;
         }
 
+        public static int sub (int a,int b)
+        {
+            return a - b;
+        }
+
+
     }
 }

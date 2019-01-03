@@ -17,6 +17,10 @@ namespace Projekt_3_1_19
                 );
 
 
+            Console.WriteLine("2-1=" +
+                Calculator.sub(2, 1)
+                );
+
             Console.ReadLine();
             
         }
